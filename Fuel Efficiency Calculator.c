@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main(){
     float distanceTravelled, fuelUsed, fuelEfficiency;
-    // a) ask for uset input
+    // a) ask for user input
     printf("Enter distanceTravelled in kilometers:");
     scanf("%f", &distanceTravelled);
 
