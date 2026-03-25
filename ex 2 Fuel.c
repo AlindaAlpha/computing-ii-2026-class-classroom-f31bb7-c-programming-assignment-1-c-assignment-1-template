@@ -6,7 +6,7 @@ int main(){
     // a) ask for user input
     printf("Enter distanceTravelled in kilometers:");
     scanf("%f", &distanceTravelled);
-
+    //displaying the fuel used in liters
     printf("Enter fuelUsed in liters:");
     scanf("%f", &fuelUsed);
 
